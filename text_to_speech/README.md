@@ -98,3 +98,9 @@ for text in pdf:
 final_file = gTTS(text=string_of_text, lang='en')  # store file in variable
 final_file.save("Generated Speech.mp3")  # save file to computer
 ```
+
+As simple as that! we are done 🎇 
+
+<a href="https://www.buymeacoffee.com/MustafaAnas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+> I am on a lifetime mission to support and contribute to the general knowledge of the web community as much as possible. Some of my writings might sound too silly, or too difficult, but no knowledge is ever useless.If you like my articles, feel free to help me keep writing by getting me coffee :)
